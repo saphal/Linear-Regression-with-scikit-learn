@@ -50,5 +50,7 @@ Must give credit to Gareth James for providing the data.
 
 ### Author
 Saphal Adhikari
+Blog post : https://medium.com/@franticarsenal/linear-regression-with-scikit-learn-6139ea602905?sk=3a97bb60d6d328bbd8a530c78821b91c
+
 
 
